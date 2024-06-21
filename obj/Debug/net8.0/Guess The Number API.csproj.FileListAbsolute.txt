@@ -1,0 +1,32 @@
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.csproj.AssemblyReference.cache
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.AssemblyInfoInputs.cache
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.AssemblyInfo.cs
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.csproj.CoreCompileInputs.cache
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\bin\Debug\net8.0\appsettings.json
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\bin\Debug\net8.0\Guess The Number API.exe
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\bin\Debug\net8.0\Guess The Number API.deps.json
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\bin\Debug\net8.0\Guess The Number API.runtimeconfig.json
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\bin\Debug\net8.0\Guess The Number API.dll
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\bin\Debug\net8.0\Guess The Number API.pdb
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\staticwebassets\msbuild.Guess The Number API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\staticwebassets\msbuild.build.Guess The Number API.props
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Guess The Number API.props
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Guess The Number API.props
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\scopedcss\bundle\Guess The Number API.styles.css
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess Th.FEEAEF79.Up2Date
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.dll
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\refint\Guess The Number API.dll
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.pdb
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.genruntimeconfig.cache
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\ref\Guess The Number API.dll
