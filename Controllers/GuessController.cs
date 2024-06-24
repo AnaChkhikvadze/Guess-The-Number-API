@@ -9,20 +9,6 @@ namespace Guess_The_Number_API.Controllers
     [Route("[controller]")]
     public class GuessController : ControllerBase
     {
-        /*
-        private int initialLowerBound;
-        private int initialUpperBound;
-        private bool boundsInitialized = false;
-
-        [HttpPost("reset")]
-        public ActionResult ResetBounds([FromBody] ResetBoundsRequest request)
-        {
-            initialLowerBound = request.LowerBound;
-            initialUpperBound = request.UpperBound;
-            boundsInitialized = true;
-            return Ok("Bounds reset successfully.");
-        }
-        */
         [HttpPost]
         public ActionResult<GuessResponse> MakeGuess([FromBody] GuessRequest request)
         {
