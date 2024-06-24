@@ -5,5 +5,7 @@
         public int Guess { get; set; }
         public string? Message { get; set; } = null;
         public bool IsGuessed { get; set; }
+        public int NextLowerBound { get; set; }
+        public int NextUpperBound { get; set; }
     }
 }

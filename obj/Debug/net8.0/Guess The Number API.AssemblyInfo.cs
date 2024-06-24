@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Guess The Number API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccb0736f2d187bd8e8c56e689fd438032a710431")]
 [assembly: System.Reflection.AssemblyProductAttribute("Guess The Number API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Guess The Number API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

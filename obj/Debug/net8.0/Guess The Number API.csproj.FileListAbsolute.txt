@@ -30,3 +30,4 @@ C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Deb
 C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.pdb
 C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.genruntimeconfig.cache
 C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\ref\Guess The Number API.dll
+C:\Users\Students\source\repos\Guess The Number API\Guess The Number API\obj\Debug\net8.0\Guess The Number API.sourcelink.json

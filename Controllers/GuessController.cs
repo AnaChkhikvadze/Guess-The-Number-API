@@ -9,6 +9,20 @@ namespace Guess_The_Number_API.Controllers
     [Route("[controller]")]
     public class GuessController : ControllerBase
     {
+        /*
+        private int initialLowerBound;
+        private int initialUpperBound;
+        private bool boundsInitialized = false;
+
+        [HttpPost("reset")]
+        public ActionResult ResetBounds([FromBody] ResetBoundsRequest request)
+        {
+            initialLowerBound = request.LowerBound;
+            initialUpperBound = request.UpperBound;
+            boundsInitialized = true;
+            return Ok("Bounds reset successfully.");
+        }
+        */
         [HttpPost]
         public ActionResult<GuessResponse> MakeGuess([FromBody] GuessRequest request)
         {
@@ -17,16 +31,17 @@ namespace Guess_The_Number_API.Controllers
                 return BadRequest("LowerBound must be less than UpperBound.");
             }
 
-            int lower = request.LowerBound;
-            int upper = request.UpperBound;
+            int nextLowerBound = request.LowerBound;
+            int nextUpperBound = request.UpperBound;
 
             if (request.PreviousResponse == ">")
             {
-                upper = request.PreviousGuess - 1;
+                nextUpperBound = request.PreviousGuess - 1;
+                //nextUpperBound = nextLowerBound;
             }
             else if (request.PreviousResponse == "<")
             {
-                lower = request.PreviousGuess + 1;
+                nextLowerBound = request.PreviousGuess + 1;
             }
             else if (request.PreviousResponse == "=")
             {
@@ -34,16 +49,22 @@ namespace Guess_The_Number_API.Controllers
                 {
                     Guess = request.PreviousGuess,
                     Message = "Number Guessed!",
-                    IsGuessed = true
+                    IsGuessed = true,
+                    NextLowerBound = nextLowerBound,
+                    NextUpperBound = nextUpperBound
                 };
             }
-            int guessNum = (lower + upper) / 2;
+
+            Random random = new Random();
+            int guessNum = random.Next(nextLowerBound, nextUpperBound + 1);
 
             return new GuessResponse
             {
                 Guess = guessNum,
                 Message = $"Is your number {guessNum}? (Type >, <, or =)",
-                IsGuessed = false
+                IsGuessed = false,
+                NextLowerBound = nextLowerBound,
+                NextUpperBound = nextUpperBound
             };
         }
     }
